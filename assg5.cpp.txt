@@ -62,7 +62,7 @@ void g_tree::create()
 void g_tree::display()
 {
     cout<<"\n Book Tree:\n";
-    if (root==NULL)
+    if (root!=NULL)
     {
         cout<<"\nTitle of the Tree:"<<root->label;
     }
