@@ -43,6 +43,7 @@ int main(){
     }
     cout<<"Priting done"<<endl;
 
+
     int six[6]={1,2,0,6,4,5};
     printarray(six,6);
 
